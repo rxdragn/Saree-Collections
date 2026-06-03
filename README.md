@@ -1,2 +1,3 @@
-# Saree-Collections
-A curated resource on sarees, including styling guides, fabric insights, draping techniques, office wear trends, festive collections, buying tips, and industry research for fashion enthusiasts, shoppers, and content creators.
+# Saree Collections: Styles, Fabrics, Office Wear & Fashion Guides
+
+Explore saree styling guides, fabric comparisons, workplace saree trends, festive collections, draping techniques, buying tips, and saree industry research.
